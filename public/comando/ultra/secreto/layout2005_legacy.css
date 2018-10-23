@@ -1,0 +1,913 @@
+/* ------------------------------------------------------------------------- */
+/* Estilos antiguos en utilesforall que deben ser sustituidos y/o eliminados */
+
+.TitleOfSiteIzq
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : #A3C1ED;
+  font-size   : 18px;
+  font-weight : bold;
+}
+
+.TitleOfSiteCentrado
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : #A3C1ED;
+  font-size   : 18px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.ColorGrisAzulOpaco
+{
+  color : #9AB3C6;
+}
+
+.BotonAzulVidal
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-weight : bold;
+  font-size   : 8pt;
+  color       : #000099;
+  /*background-color: #b3b3FF;
+  border-color:     lightblue;*/
+}
+
+.TextBoxAzulVidal
+{
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 8pt;
+  color            : #000099;
+  background-color : #FFFFFF;
+}
+
+.TextBoxAzulVidalSinBackGround
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 8pt;
+  color       : #000099;
+}
+
+.TextBoxAzulVidalNetscape
+{
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 12px;
+  color            : #000099;
+  /*background-color : #e3e3FF;*/
+}
+
+A.PucResaltado
+{
+  font-size       : 12px;
+  text-decoration : none;
+}
+
+A.PucResaltado:link
+{
+  color : navy;
+}
+
+A.PucResaltado:active
+{
+  color : red;
+}
+
+A.PucResaltado:visited
+{
+  color : navy;
+}
+
+A.PucOpaco
+{
+  font-size       : 12px;
+  text-decoration : none;
+}
+
+A.PucOpaco:hover
+{
+  color           : red;
+  text-decoration : underline;
+}
+
+A.PucOpaco:link
+{
+  color : #9AB3C6;
+}
+
+A.PucOpaco:active
+{
+  color : red;
+}
+
+A.PucOpaco:visited
+{
+  color : #9AB3C6;
+}
+
+.Letra8pt
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+}
+
+.TablaConBordeFinoLightblue
+{
+  border-left         : 1px solid #A3C1ED;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-top          : 1px solid #A3C1ED; /*lightblue;*/
+}
+
+.CeldaConBordeFinoLightblue
+{
+  border-right      : 1px solid #A3C1ED;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #A3C1ED;
+}
+
+.CeldaConBordeFinoLightblueizq
+{
+  border-left   : 1px solid #A3C1ED;
+  border-right  : 1px solid #A3C1ED;
+  border-bottom : 1px solid lightblue;
+}
+
+.CeldaConBordeFinoLightbluetop
+{
+  border-top    : 1px solid #A3C1ED; /*lightblue;*/
+  border-left   : 1px solid #A3C1ED;
+  border-right  : 1px solid #A3C1ED;
+  border-bottom : 1px solid lightblue;
+}
+
+.TablaConBordeFinoGray
+{
+  border-left         : 1px solid #dddddd;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-top          : 1px solid #dddddd;
+}
+
+.CeldaConBordeFinoGray
+{
+  border-right      : 1px solid #dddddd;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+}
+
+
+
+.Warning
+{
+  color : red;
+}
+
+
+/* ------------------------------------------------------------------------- */
+/* Estilos antiguos en thissite.css que deben ser sustituidos y/o eliminados */
+
+.Italicas
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-style  : italic;
+}
+
+A.LinkOpaco
+{
+  text-decoration : none;
+  color           : #B5B5B5;
+  font-family     : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size       : 12px;
+}
+
+A.LinkInPath
+{
+  text-decoration : none;
+  color           : #273E78;
+}
+
+A.LinkHistorico
+{
+  text-decoration : none;
+}
+
+.EnlacesBusqueda
+{
+  font-family     : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size       : 12px;
+  text-decoration : none;
+  color           : #A5C6EF;
+  font-weight     : bold;
+}
+
+.SubTitleGeneric
+{
+  font-size   : 16px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+A.LinkDeEliminar
+{
+  font-size       : 10px;
+  text-decoration : none;
+}
+
+.SiteVersion
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  color       : #A9BDCD;
+}
+
+.SmallSize
+{
+  font-size : 10px;
+}
+
+.TinySize
+{
+  font-size : 8px;
+}
+
+.LetraHeaderChicoListaCurso
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  font-weight : normal;
+  color       : #008080;
+}
+
+.LetraHeaderGrandeListaCurso
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 16px;
+  font-weight : bold;
+  color       : #008080;
+}
+
+.LetraMonoSpace
+{
+  font-family: 'Courier New', Courier, Mono;
+}
+
+.LetraElementoBusqueda
+{
+  color       : #000099;
+  font-weight : bold;
+}
+
+.LetraFormField
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 8pt;
+  color       : #273E78;
+}
+
+.LetraOpacaChica
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  color       : #B5B5B5;
+}
+
+
+
+A.LinkForSearching:hover
+{
+  text-decoration : none;
+}
+
+A.LinkForSearching
+{
+  text-decoration : none;
+  font-family     : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size       : 12px;
+  font-weight     : bold;
+  color           : #000099;
+  /*text-shadow: 3px 3px 5px red;*/
+}
+
+A.LinkForAdd
+{
+  font-size : 10px;
+  color     : #494399
+}
+
+
+A.LinkFolderParents
+{
+  text-decoration : none;
+  color           : #000099;
+}
+
+A.LinkFolderParents:hover
+{
+  text-decoration : underline;
+}
+
+A.LinkFolder
+{
+  text-decoration : none;
+}
+
+A.LinkFolder:hover
+{
+  text-decoration : underline;
+}
+
+a.LinkSinUnderline
+{
+  text-decoration : none;
+}
+
+A.LinkSinUnderlineConHoverUnderlined
+{
+  text-decoration : none;
+}
+
+A.LinkSinUnderlineConHoverUnderlined:hover
+{
+  text-decoration : underline;
+}
+
+.FolderPath
+{
+  font-weight : bold;
+  color       : #000099;
+}
+
+A.LinkSinHover:hover
+{
+  background-color : #FFFFFF;
+}
+
+.CeldaConBordeFinoBottomGrayRightBlack
+{
+  border-right      : 1px solid #000000;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+}
+
+.CeldaConBordeFinoBottomGrayRightFondo
+{
+  border-right      : 1px solid #dddddd;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+  background-color : #E2E2E2;
+}
+
+.CeldaConBordeFinoBottomGrayRight
+{
+  border-right      : 1px solid #dddddd;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+ 
+}
+
+.CeldaConBordeFinoBottomGrayFondo
+{
+  border-right      : 0px;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+  background-color : #E2E2E2;
+}
+
+
+.CeldaConBordeFinoBottomGray
+{
+  border-right      : 0px;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+}
+
+
+.TablaBordeFuerte
+{
+  border : 2px solid #000000;
+}
+
+.TablaBordeSimple
+{
+  border : 1px solid #000000;
+}
+
+.TablaBordeGray
+{
+  border : 1px solid #dddddd;
+}
+
+.TablaReportesRemuneracionesDICTUC
+{
+  border-right-width  : 0px;
+  border-left-width   : 0px;
+  border-top-width    : 0px;
+  border-bottom-width : 0px;
+}
+
+.CeldaHeaderReportesRemuneracionesDICTUC
+{
+  border-right      : 1px solid #000000;
+  border-left-width : 0px;
+  border-top        : 2px solid #000000;
+  border-bottom     : 2px solid #000000;
+}
+
+.CeldaHeaderLeftReportesRemuneracionesDICTUC
+{
+  border-right  : 1px solid #000000;
+  border-left   : 2px solid #000000;
+  border-top    : 2px solid #000000;
+  border-bottom : 2px solid #000000;
+}
+
+.CeldaHeaderRightReportesRemuneracionesDICTUC
+{
+  border-right      : 2px solid #000000;
+  border-left-width : 0px;
+  border-top        : 2px solid #000000;
+  border-bottom     : 2px solid #000000;
+}
+
+.CeldaLeftParaPalabrasResumenRemuneracionesDICTUC
+{
+  border-right     : 1px solid #000000;
+  border-left      : 1px solid #000000;
+  border-top-width : 0px;
+  border-bottom    : 1px solid #000000;
+}
+
+.CeldaLeftReportesRemuneracionesDICTUC
+{
+  border-right     : 1px solid #000000;
+  border-left      : 2px solid #000000;
+  border-top-width : 0px;
+  border-bottom    : 1px solid #000000;
+  font-family      : 'Courier New', Courier, Mono;
+}
+
+.CeldaRightReportesRemuneracionesDICTUC
+{
+  border-right      : 2px solid #000000;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #000000;
+  font-family       : 'Courier New', Courier, Mono;
+}
+
+.CeldaParaPalabrasReportesRemuneracionesDICTUC
+{
+  border-right      : 1px solid #000000;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #000000;
+}
+
+.CeldaParaNumerosReportesRemuneracionesDICTUC
+{
+  border-right      : 1px solid #000000;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #000000;
+  font-family       : 'Courier New', Courier, Mono;
+}
+
+.CeldaParaPalabrasFootReportesRemuneracionesDICTUC
+{
+  border-right-width  : 0px;
+  border-left-width   : 0px;
+  border-top          : 1px solid #000000;
+  border-bottom-width : 0px;
+}
+
+.CeldaParaNumerosFootReportesRemuneracionesDICTUC
+{
+  border-right-width  : 0px;
+  border-left-width   : 0px;
+  border-top          : 1px solid #000000;
+  border-bottom-width : 0px;
+  font-family         : 'Courier New', Courier, Mono;
+}
+
+.CeldaConBordeSoloAlFinal
+{
+  border-bottom : 1px solid #000000;
+}
+
+.CeldaSinBordeDerecho
+{
+  border-right-width : 0px;
+  border-left        : 1px solid #000000;
+  border-top         : 1px solid #000000;
+  border-bottom      : 1px solid #000000;
+}
+
+.CeldaSinBordeIzquierdo
+{
+  border-left-width : 0px;
+  border-right      : 1px solid #000000;
+  border-top        : 1px solid #000000;
+  border-bottom     : 1px solid #000000;
+}
+
+.CeldaSinBordesPorLados
+{
+  border-left-width  : 0px;
+  border-right-width : 0px;
+  border-top         : 1px solid #000000;
+  border-bottom      : 1px solid #000000;
+}
+
+/* Estilos relacionados con las noticias y eventos del sitio web de la Escuela*/
+
+.LetraTituloNoticia
+{
+  font-family : 'Microsoft Sans Serif', sans-serif, Arial, Verdana, Genova, Helvetica;
+  font-size   : 24px;
+  font-weight : bold;
+  color       : #000099;
+}
+
+.LetraSubTituloNoticia
+{
+  font-family : 'Microsoft Sans Serif', sans-serif, Arial, Verdana, Genova, Helvetica;
+  font-size   : 14px;
+  font-weight : bold;
+  color       : #000099;
+}
+
+.LetraPhotoCaption
+{
+  font-family : Verdana, Arial, Helvetica, sans-serif, "MS sans serif";
+  color       : #333333;
+  font-size   : 8pt;
+  padding-top : 2px;
+}
+
+.LetraSubTituloSmall
+{
+  font-family : 'Microsoft Sans Serif', sans-serif, Arial, Verdana, Genova, Helvetica;
+  font-size   : 16px;
+  font-weight : bold;
+  color       : #000099;
+}
+
+.LetraItalica
+{
+  font-family : 'Times New Roman', Times, serif, Verdana, Genova;
+  font-style  : italic;
+}
+
+acronym
+{
+  border-bottom : 1px dashed #00cc00;
+  cursor        : help;
+}
+
+.TextWithHelpGreen
+{
+  border-bottom : 1px dashed #00cc00;
+  cursor        : help;
+}
+
+.TextWithHelpBlue
+{
+  border-bottom : 1px dashed #0000cc;
+  cursor        : help;
+}
+
+.TextWithHelpRed
+{
+  border-bottom : 1px dashed #cc0000;
+  cursor        : help;
+}
+
+.CursorNormal
+{
+  cursor : default;
+}
+
+.TypicalHeader1WithBackground
+{
+  background-color : #D9D9F0;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 18px;
+}
+
+.TypicalHeader2WithBackground
+{
+  background-color : #E5E5F5;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 14px;
+}
+
+.FutureHeader1WithBackground
+{
+  background-color : #D9D9D9;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 18px;
+}
+
+.FutureHeader2WithBackground
+{
+  background-color : #E5E5E5;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 14px;
+}
+
+.TablaConBordeTipico
+{
+  border-top          : 1px solid #E5E5F5;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-left         : 1px solid #E5E5F5;
+}
+
+.CeldaConBordeTipico
+{
+  border-top-width  : 0px;
+  border-right      : 1px solid #E5E5F5;
+  border-bottom     : 1px solid #E5E5F5;
+  border-left-width : 0px;
+}
+
+.TablaConBordeFuturo
+{
+  border-left         : 1px solid #E5E5E5;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-top          : 1px solid #E5E5E5;
+}
+
+.CeldaConBordeFuturo
+{
+  border-right      : 1px solid #E5E5E5;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #E5E5E5;
+}
+
+.CeldaIzquierdaConBordeFuturo
+{
+  border-right      : 1px solid #E5E5E5;
+  border-left       : 1px solid #E5E5E5;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #E5E5E5;
+}
+
+.CeldaArribaConBordeFuturo
+{
+  border-right      : 1px solid #E5E5E5;
+  border-left-width : 0px;
+  border-top        : 1px solid #E5E5E5;
+  border-bottom     : 1px solid #E5E5E5;
+}
+
+.CeldaFullConBordeFuturo
+{
+  border-right  : 1px solid #E5E5E5;
+  border-left   : 1px solid #E5E5E5;
+  border-top    : 1px solid #E5E5E5;
+  border-bottom : 1px solid #E5E5E5;
+}
+
+.TablaConBordeFuturoPrint
+{
+  border-left         : 1px solid #B5B5B5;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-top          : 1px solid #B5B5B5;
+}
+
+.CeldaConBordeFuturoPrint
+{
+  border-right      : 1px solid #B5B5B5;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #B5B5B5;
+}
+
+
+/* ----------------------------------------------------------------------- */
+/* Estilos antiguos en titles.css que deben ser sustituidos y/o eliminados */
+
+.pagetitle
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : large;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.pagetitledefault
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : large;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.pagetitleh2
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : large;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.pagetitlesmall
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 18px;
+  font-weight : bold;
+  text-align  : left;
+}
+
+.pagetitlemiddlecenter
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 20px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.pagetitlesmallcenter
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 18px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.CeldaConBordeFinoGrayBorrador
+{
+  border-right      : 1px solid #dddddd;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #dddddd;
+  background-color  : #dddddd;
+}
+
+.pagesubtitle
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 16px;
+  font-weight : bold;
+  text-align  : left;
+}
+
+.pagesubtitlecenter
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 16px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.pagetitleIngeniero
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : darkblue;
+  font-size   : 18px;
+  font-weight : bold;
+  text-align  : center;
+}
+
+.Comentario
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  color       : #4E9A9A;
+}
+
+.copyright
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  color       : #4E9A9A;
+}
+
+A.linkcopyright
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 10px;
+  color       : #4E9A9A;
+}
+
+A.linkcamuflado
+{
+  font-size       : 14px;
+  text-decoration : none;
+  color           : #494399;
+}
+
+.tablalinda
+{
+  border-color : #8080FF;
+}
+
+.TitlePUC
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  color       : navy;
+  font-size   : 10px;
+  font-weight : bold;
+}
+
+.HeaderPUC18
+{
+  font-family : 'Times New Roman', Times, Serif;
+  font-size   : 18px;
+  font-weight : bold;
+}
+
+.HeaderPrint
+{
+  font-family : 'Times New Roman', Times, Serif;
+  font-size   : 12px;
+  font-style  : italic;
+}
+
+.HeaderEscIng14
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 14px;
+  font-weight : bold;
+}
+
+.HeaderDirDoc14
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 14px;
+  font-weight : bold;
+}
+
+.CeldaConBordeFinoGrayLeftBottomRight
+{
+  border-right     : 1px solid #dddddd;
+  border-left      : 1px solid #dddddd;
+  border-top-width : 0px;
+  border-bottom    : 1px solid #dddddd;
+}
+
+.CeldaConBordeFinoGrayRight
+{
+  border-right        : 1px solid #dddddd;
+  border-left-width   : 0px;
+  border-top-width    : 0px;
+  border-bottom-width : 0px;
+}
+
+.CeldaConBordeFinoGrayAllBorders
+{
+  border-right  : 1px solid #dddddd;
+  border-left   : 1px solid #dddddd;
+  border-top    : 1px solid #dddddd;
+  border-bottom : 1px solid #dddddd;
+}
+
+.CeldaConBordeFinoGrayTopRightBottom
+{
+  border-right      : 1px solid #dddddd;
+  border-left-width : 0px;
+  border-top        : 1px solid #dddddd;
+  border-bottom     : 1px solid #dddddd;
+}
+
+.TablaConBordeFinoVerde
+{
+  border-left         : 1px solid #00cc00;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-top          : 1px solid #00cc00;
+}
+
+.CeldaConBordeFinoVerde
+{
+  border-right      : 1px solid #00cc00;
+  border-left-width : 0px;
+  border-top-width  : 0px;
+  border-bottom     : 1px solid #00cc00;
+}
+
+.LetraXXSmall
+{
+  /*font-size : xx-small;*/
+  font-size : 10px;
+}
+

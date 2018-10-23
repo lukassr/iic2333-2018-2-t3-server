@@ -1,0 +1,351 @@
+.ColorFondoResaltado
+{
+  background-color : #FFCC33;
+}
+
+.ColorFondoResaltadoSecundario
+{
+  background-color : #000099;
+}
+
+.ColorFondoSeparaTituloImagen
+{
+  background-color: #FFFFFF;
+}
+
+.ColorFondoResaltadoFIUC
+{
+  background-color: #000099;
+}
+
+.ColorFondoSeparaTituloImagenFIUC
+{
+  background-color: #000099;
+}
+
+.ColorFondoSubHeader1
+{
+  background-color : #A9BCE7;
+}
+
+.ColorFondoSubHeader2
+{
+  background-color : #D4DDF3;
+}
+
+.ColorFondoSubHeader3ParaFondoBlanco
+{
+  background-color : #E5EBF8;
+}
+
+.ColorFondoZonaTrabajo
+{
+  /*background-color : #E5EBF8;*/
+  background-color : #FFFFFF;
+}
+
+.ColorFondoLengueta
+{
+  /*background-color : #2a2a62;*/
+  background-color : #000099;
+}
+
+.ColorFondoLenguetaResaltada
+{
+  /*background-color : #ffc643;*/
+  background-color : #ffcc33;
+}
+
+.MenuOpcionNormal
+{
+  background-color : #FFCC33;
+}
+
+.MenuOpcionResaltada
+{
+  background-color : #FFFFFF;
+  cursor           : pointer;
+}
+
+.MenuOpcionResaltadaSinCursorParaLink
+{
+  background-color : #FFFFFF;
+}
+
+.LetraSubheader1
+{
+  font-size : 14pt;
+}
+
+.LetraSubheader2
+{
+  font-size   : 12pt;
+  font-weight : bold;
+}
+
+.LetraChica
+{
+  font-size : 8pt;
+}
+
+.LetraMuyChica
+{
+  font-size : 7pt;
+}
+
+.LetraTiny
+{
+  font-size : 6pt;
+}
+
+.LetraFooter
+{
+  font-size : 8pt;
+  color     : #FFFFFF;
+}
+
+a.LinkFooter
+{
+  font-size       : 8pt;
+  color           : #FFFFFF;
+  text-decoration : none;
+}
+
+a.LinkTab
+{
+  font-size       : 10pt;
+  font-weight     : bold;
+  color           : #FFCC33;
+  text-decoration : none;
+  letter-spacing  : -1px;
+}
+
+a.LinkTab:hover
+{
+  text-decoration  : underline;
+  color            : #FFCC33;
+  background-color : #000099;
+}
+
+a.LinkTabHighlighted
+{
+  font-size       : 10pt;
+  font-weight     : bold;
+  color           : #000099;
+  text-decoration : none;
+  letter-spacing  : -1px;
+}
+
+a.LinkTabHighlighted:hover
+{
+  text-decoration  : underline;
+  background-color : #FFCC33;
+}
+
+a:hover
+{
+  color            : #000099;
+  background-color : #FFCC33;
+  text-decoration  : underline;
+}
+
+a:active
+{
+  color : #0000FF;
+}
+
+a.LinkNoUnderlined
+{
+  text-decoration : none;
+}
+
+a.LinkNoUnderlinedHoverUnderlined
+{
+  text-decoration : none;
+}
+
+a.LinkNoUnderlinedHoverUnderlined:hover
+{
+  text-decoration : underline;
+}
+
+a.LinkNoUnderlinedHoverUnderlinedWhite
+{
+  text-decoration : none;
+}
+
+a.LinkNoUnderlinedHoverUnderlinedWhite:hover
+{
+  background-color : #FFFFFF;
+  text-decoration  : underline;
+}
+
+a.LinkNoUnderlinedHoverNoUnderlined
+{
+  text-decoration : none;
+}
+
+a.LinkNoUnderlinedHoverNoUnderlined:hover
+{
+  text-decoration : none;
+}
+
+a.LinkNoHover:hover
+{
+  background-color : #FFFFFF;
+}
+
+a.Link_TopMenu
+{
+  font-family      : Verdana, Arial, sans serif;
+  font-size        : 10pt;
+  font-weight      : bold;
+  background-color : #000099;
+  color            : #FFCC33;
+  text-decoration  : none;    /* Quitar si se desea subrayar el texto de las opciones*/
+}
+
+a.Link_TopMenu:hover
+{
+  background-color : #FFCC33;
+  color            : #000099;
+  text-decoration  : none;    /* Quitar si se desea subrayar el texto de las opciones*/
+}
+
+a.Link_TopMenuHighlighted
+{
+  font-family      : Verdana, Arial, sans serif;
+  font-size        : 10pt;
+  font-weight      : bold;
+  background-color : #FFCC33;
+  color            : #000099;
+  text-decoration  : none;    /* Quitar si se desea subrayar el texto de las opciones*/
+}
+
+a.Link_TopMenuHighlighted:hover
+{
+  text-decoration  : none;    /* Quitar si se desea subrayar el texto de las opciones*/
+}
+
+a.LinkMenuResaltado
+{
+  text-decoration : none;
+}
+
+a.LinkMenuResaltado:hover
+{
+  text-decoration  : none;
+  background-color : #FFFFFF;
+}
+
+.TypicalFormButton
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  /*font-weight : bold;*/
+  font-size   : 10pt;
+  color       : #000099;
+  /*background-color: #b3b3FF;*/
+  /*border-color:     lightblue;*/
+}
+
+.TinyFormButton
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 8pt;
+  color       : #000099;
+  /*background-color: #b3b3FF;*/
+  /*border-color:     lightblue;*/
+}
+
+.TypicalFormField
+{
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 8pt;
+  background-color : #FFFFFF;
+  color            : #000099;
+}
+
+.TypicalFormFieldWithoutBackGround
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 8pt;
+  color       : #000099;
+}
+
+.Header1WithBackground
+{
+  background-color : #A9BCE7;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica;
+  font-size        : 18px;
+}
+
+.Header2WithBackground
+{
+  background-color : #D4DDF3;
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica;
+  font-size        : 14px;
+}
+
+.TablaConBordeTipico
+{
+  border-top          : 1px solid #E5E5F5;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-left         : 1px solid #E5E5F5;
+}
+
+.CeldaConBordeTipico
+{
+  border-top-width  : 0px;
+  border-right      : 1px solid #E5E5F5;
+  border-bottom     : 1px solid #E5E5F5;
+  border-left-width : 0px;
+}
+
+.CeldaBordeTipico_Full
+{
+  border-top    : 1px solid #E5E5F5;
+  border-right  : 1px solid #E5E5F5;
+  border-bottom : 1px solid #E5E5F5;
+  border-left   : 1px solid #E5E5F5;
+}
+
+.CeldaBordeTipico_Top
+{
+  border-top          : 1px solid #E5E5F5;
+  border-right-width  : 0px;
+  border-bottom-width : 0px;
+  border-left-width   : 0px;
+}
+
+.CeldaBordeTipico_TopRightBottom
+{
+  border-top        : 1px solid #E5E5F5;
+  border-right      : 1px solid #E5E5F5;
+  border-bottom     : 1px solid #E5E5F5;
+  border-left-width : 0px;
+}
+
+.CeldaBordeTipico_RightBottom
+{
+  border-top-width  : 0px;
+  border-right      : 1px solid #E5E5F5;
+  border-bottom     : 1px solid #E5E5F5;
+  border-left-width : 0px;
+}
+
+.CeldaBordeTipico_RightBottomLeft
+{
+  border-top-width : 0px;
+  border-right     : 1px solid #E5E5F5;
+  border-bottom    : 1px solid #E5E5F5;
+  border-left      : 1px solid #E5E5F5;
+}
+
+.CeldaBordeTipico_Bottom
+{
+  border-top-width   : 0px;
+  border-right-width : 0px;
+  border-bottom      : 1px solid #E5E5F5;
+  border-left-width  : 0px;
+}

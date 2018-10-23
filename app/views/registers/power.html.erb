@@ -1,0 +1,12 @@
+<p>
+Utilice la herramienta ping para enviar paquetes {\em ICMP Echo Request} a 10 direcciones IP distintas dentro de la subred, 
+y que no sea la dirección propia. Debe enviar al menos 5 ping.
+</p>
+<ul>
+    <% Register.all.each do |ip| %>
+        <li><%= ip.ip %></li>
+    <% end %>
+</ul>
+<p>
+Actualmente hay <%= Register.count %> IPs registradas
+</p>

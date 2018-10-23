@@ -1,0 +1,98 @@
+a
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+body
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+p
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+center
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+br
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+dir
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+th
+{
+  font-family      : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size        : 9pt;
+  background-color : #D9EDFD;
+  color            : #000099;
+}
+
+td
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+ol
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+ul
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+li
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 9pt;
+  color       : #000099;
+}
+
+hr
+{
+  color : #0000FF;
+}
+
+.LIChico
+{
+  font-family : Verdana, 'Microsoft Sans Serif', Arial, Genova, Helvetica, sans-serif;
+  font-size   : 12px;
+  color       : #000099;
+}
+
+.CeldaConBordeFinoGrayBorrador
+{
+  border-right:1px solid #dddddd;
+  border-left-width: 0;
+  border-top-width: 0;
+  border-bottom:1px solid #dddddd;
+  background-color : #dddddd;
+}
